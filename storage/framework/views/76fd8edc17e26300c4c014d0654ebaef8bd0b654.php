@@ -1,10 +1,5 @@
 ﻿<?php echo $__env->make('commter.top', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
 <title>管理员列表</title>
-<style type="text/css">
-	ul{
-		float: left;
-	}
-</style>
 </head>
 <body>
 <nav class="breadcrumb"><i class="Hui-iconfont">&#xe67f;</i> 首页 <span class="c-gray en">&gt;</span> 管理员管理 <span class="c-gray en">&gt;</span> 管理员列表 <a class="btn btn-success radius r" style="line-height:1.6em;margin-top:3px" href="javascript:location.replace(location.href);" title="刷新" ><i class="Hui-iconfont">&#xe68f;</i></a></nav>

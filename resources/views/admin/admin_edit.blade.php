@@ -1,7 +1,5 @@
 @include('commter.top')
-<title>添加管理员 - 管理员管理 - H-ui.admin v2.4</title>
-<meta name="keywords" content="H-ui.admin v2.3,H-ui网站后台模版,后台模版下载,后台管理系统模版,HTML后台模版下载">
-<meta name="description" content="H-ui.admin v2.3，是一款由国人开发的轻量级扁平化网站后台模板，完全免费开源的网站后台管理系统模版，适合中小型CMS后台系统。">
+<title>添加管理员 - 管理员管理</title>
 </head>
 <body>
 <article class="page-container">
